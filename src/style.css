@@ -34,7 +34,7 @@ a:hover {
 .page {
   max-width: 880px;
   margin: 0 auto;
-  padding: 88px 40px 56px;
+  padding: 152px 40px 64px;
   display: grid;
   grid-template-columns: 240px 1fr;
   gap: 56px;
@@ -42,7 +42,7 @@ a:hover {
 
 .sidebar {
   position: sticky;
-  top: 48px;
+  top: 72px;
   align-self: start;
 }
 
@@ -180,7 +180,7 @@ footer {
   .page {
     grid-template-columns: 1fr;
     gap: 40px;
-    padding: 40px 20px 32px;
+    padding: 64px 20px 32px;
   }
 
   .sidebar {
